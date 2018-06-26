@@ -1,0 +1,18 @@
+platformName: Android
+platformVersion: 7.0
+deviceName: f7cb134f
+#app: /Users/mengwei/Downloads/app-debug.apk
+appName: app-debug.apk
+appPackage: com.huatec.myapplication
+appActivity: .MainActivity
+automationName: uiautomator2
+noReset: False
+unicodeKeyboard: False
+resetKeyboard: False
+ip: 127.0.0.1
+port: 4723
+
+#真机
+#platformVersion: 5.1
+#udid: 5s2f31
+#deviceName: MX4
